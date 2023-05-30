@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://png.pngtree.com/element_our/20190531/ourlarge/pngtree-vector-cartoon-girl-working-image_1320827.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsi3856&label=Profile%20views&color=0e75b6&style=flat" alt="vamsi3856" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PulipatiKeerthi&label=Profile%20views&color=0e75b6&style=flat" alt="PulipatiKeerthi" /> </p>
 
 
 - 🔭 I’m currently working on **Python Framework(Django & Flask)**
